@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# Sample data files
+files/
